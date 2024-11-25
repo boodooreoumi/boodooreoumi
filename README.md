@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=데이터분석가를%20꿈꾸다&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=인공지능개발자를%20꿈꾸다&fontSize=50" />
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
